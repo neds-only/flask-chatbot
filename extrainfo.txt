@@ -1,0 +1,19 @@
+html is caseinsensitive
+*use !DOCTYPE html
+
+Q.WHAT IS HTTP method?
+"GET" or "POST" is an HTTP method
+"GET" is for form to give info to the user
+used when the user needs to open the page,searching,clicking a link
+
+"POST" is used when we want to give it data
+when the app needs to take userinput or submitting forms
+GET → asking a question
+POST → giving an answer
+
+Jinja (Flask template language)-
+1.{% %}----for logic
+2.{{variable}} for printing
+
+i need to check whether a list exists or not.
+then i need to make the unordered list by adding bullet points
